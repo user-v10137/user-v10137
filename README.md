@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B96F7&center=true&width=435&lines=Welcome!+My+name+is+Kade%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&size=30&pause=1000&color=4458F7&width=435&lines=Welcome!+My+name+is+Kade%F0%9F%91%8B)](https://git.io/typing-svg)
 
-**_IT services manager passionate about people, eager to learn, grow and build my technical skills _**
+**_IT services manager passionate about people, eager to learn, grow and build my technical skills_**
 
 - 📌 Previous program manager and head of support
 - 🎓 Current MBA student
@@ -12,10 +12,16 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/V10137.png" alt="TryHackMe">
 
 ### Connect with me:
-------------
+<div>
+<a href="https://www.linkedin.com/in/kade-hauschild/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/>
+</div>
 
 ### Languages and Tools:
-                
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL" **alt="SQL" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+</div>              
 
 
 
