@@ -9,8 +9,7 @@
 
 #### _Track my [Learning Log](https://github.com/user-v10137/Learning_log "Learning Log") to see my development!_ 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/V10137.png" alt="TryHackMe">
-
+![tryhackme stats](https://raw.githubusercontent.com/user-v10137/user-v10137/master/Assets/thm_propic.png)
 
 ### Connect with me:
 <div>
