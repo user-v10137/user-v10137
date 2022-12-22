@@ -2,7 +2,7 @@
 
 **_IT services manager passionate about people, eager to learn, grow and build my technical skills_**
 
-- 📌 Previous program manager and head of support
+- 📌 Previous program manager and people leader
 - 🎓 Current MBA student
 - ✨ Interested in further learning about technology and cyber
 
