@@ -9,8 +9,6 @@
 
 #### _Track my [Learning Log](https://github.com/user-v10137/Learning_log "Learning Log") to see my development!_ 
 
-![tryhackme stats](https://raw.githubusercontent.com/user-v10137/user-v10137/master/Assets/thm_propic.png)
-
 ### Connect with me:
 <div>
 <a href="https://www.linkedin.com/in/kade-hauschild/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/>
