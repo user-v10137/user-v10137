@@ -11,7 +11,7 @@
 
 ### Connect with me:
 <div>
-<a href="https://www.linkedin.com/in/kade-hauschild/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/kade-h"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/>
 </div>
 
 ### Languages and Tools:
